@@ -1,0 +1,23 @@
+{% include base_path %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav class="greedy">
+        <h1><a href="{{ base_path }}/">{{ site.title }}</a></h1>
+        <ul class="links">
+          {% for link in site.data.navigation.main %}
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+            {% else %}
+            {% assign domain = base_path %}
+          {% endif %}
+            <li class="masthead__menu-item {% if link.url == page.url %}active{% endif %}"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+        <img class="button" src="/images/more-vertical.svg" alt="more" count="0"/>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>

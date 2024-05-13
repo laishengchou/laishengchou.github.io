@@ -1,0 +1,27 @@
+# main links links
+main:
+
+  - title: "Overview"
+    url: /
+
+  - title: "Academics"
+    url: /academics/
+
+  - title: "Inventions"
+    url: /inventions/ 
+
+  - title: "Enterprises"
+    url: /enterprises/ 
+
+  - title: "Leadership"
+    url: /leadership/    
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Patents"
+    url: /patents/
+
+            
+  # - title: "Awards"
+  #   url: /awards/
