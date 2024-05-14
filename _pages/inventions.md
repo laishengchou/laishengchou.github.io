@@ -7,9 +7,13 @@ layout: single
 
 Dr. Chou has made remarkable cross-disciplinary advances in translational medicine, marked by scientific discoveries and the development of novel medical modalities. These innovations have provided substantial benefits to tens of millions worldwide, especially those afflicted by severe wounds and bone defects. Moreover, through the donation of millions of products to developing countries for individuals facing life-threatening wounds, Dr. Chou's philanthropic efforts have had a profound impact on global health.
 
+<hr />
+
 ## <a name="molecular-biocompatibility"></a> [Pioneered the Field of Molecular Biocompatibility](/files/research/molecular-biocompatibility.pdf)
 
 In 1995, Dr. Chou was the first to discover [element- and topography-specific biogenetic reactions to inert biomaterials within live human cells](/files/research/biogenetic-reactions-to-inert-biomaterials-1995.pdf). This breakthrough sparked the emergence of the [molecular biocompatibility](/files/research/molecular-biocompatibility-1996.pdf) field. Dr. Chou’s proposal of building the biomaterials’ molecular biocompatibility profile is credited with catalyzing the development of third-generation biomaterials and played a key role in shaping the federal white paper <a href="https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/materials_genome_initiative-final.pdf">"Materials Genome Initiative"</a> issued by President Obama in 2011.
+
+<hr />
 
 ## <a name="epitheliogenic-biomaterials"></a> [The First Epitheliogenic Biomaterials Benefiting over 16 Millions Patients Worldwide](/files/research/epitheliogenic-biomaterials.pdf)
 
@@ -35,6 +39,8 @@ Dr. Chou's groundbreaking research on Si/Ca-containing epitheliogenic materials 
   * Success in treating other wounds
 
 
+<hr />
+
 ##	<a name="3d-scaffolds"></a> [The First 3D Printing Device for Tissue Engineering and First Biomimetically Engineered Scaffold Benefiting Over a Hundred Thousand Patients](/files/research/osteobone.pdf)
 
 In 1998, Dr. Chou uncovered the osteogenic properties of inorganic silicon, along with its synergistic relationship with calcium. His pioneering work included the development of the world's first 3-D printing method for tissue engineering in 1995. This breakthrough culminated in the creation of the first CFDA-approved biomimetically engineered osteogenic scaffold for treating severe bone defects. As of February 2024, this scaffold has facilitated bone regeneration in 142,750 patients, boasting nearly zero short- or long-term failure rates based on over 20 years of post-operative monitoring.
@@ -58,6 +64,8 @@ In 1998, Dr. Chou uncovered the osteogenic properties of inorganic silicon, alon
 6.	[Articles Published by Independent Clinicians Using OSTEOBONE](/files/research/osteobone.pdf)
 
 
+<hr />
+
 ##	<a name="oral-ulcer-healing"></a> [The First Oral Ulcer Healing Material Helping Over a Million Patients](/files/research/oral-ulcer-healing.pdf)
 
 Around 20% of the world's population suffers from recurrent oral ulcers, a condition for which, prior to 2006, steroid use was the primary treatment option despite associated side effects. In 2006, Dr. Chou introduced the first silicon delivery patch, approved by FDA, CFDA, or CE, for faster healing of oral ulcers without relying on steroids. As of February 2024, 1,801,013 patients have benefited from this innovative product for managing recurrent oral ulcers.
@@ -78,6 +86,8 @@ In 2016, Dr. Chou and his team introduced the first Head and Neck PET-CT scanner
   *	Super Nova® pre-clinical in-vivo PET/CT 
 3.	Patents Covering the Invention and Production of Molecular Imaging System (PET/SPECT/CT)
 4.  [Growing Body of Publications enabled by Pingseng Devices](/files/research/pingseng-powered-publications.pdf)
+
+<hr />
 
 ##	<a name="nanosensors"></a> [The First Nano-Sensor to Detect the Early-Stage Lung and Gastric Cancer from a Breath Sample](/files/research/nanosensors.pdf)
 

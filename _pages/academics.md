@@ -14,6 +14,8 @@ layout: single
 ## AWARDS
 
 <img src="/files/academics/metcalf-cup.jpg">
+<br /><br />
+<img src="/files/academics/metcalf-collage-2002.png">
 
 In 2002, Dr. Chou was selected, from over 3,000 faculty members across the entire campus as the recipient of the Metcalf Cup and Prize – Boston University’s most prestigious teaching award.  [2002 Metcalf Cup and Prize](https://www.bu.edu/dental/chou-press-release/) [[1]](https://www.bu.edu/dental/chou-press-release/) [[2]](https://www.bu.edu/dental/chou-metcalf-post/) [[3]](https://www.bu.edu/bridge/archive/2002/08-30/aids.htm) [[4]](https://www.bu.edu/bridge/archive/2002/05-31/metcalfcup.htm)
 
