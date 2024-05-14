@@ -61,7 +61,7 @@ In 1998, Dr. Chou uncovered the osteogenic properties of inorganic silicon, alon
   *	Bone defect after benign bone tumor removal treated successfully
   *	Bone fracture treated successfully
 5.	Patents covering the invention and production of OSTEOBONE
-6.	[Articles Published by Independent Clinicians Using OSTEOBONE](/files/research/osteobone.pdf)
+6.	[Articles Published by Independent Clinicians Using OSTEOBONE](/files/research/osteobone-independent-clinicians.pdf)
 
 
 <hr />
