@@ -20,4 +20,4 @@ Dr. Chou founded the Kunshan Medical Device Industrial Park in 2008 and currentl
 
 <img src="/files/initiatives/suzhou-institute.jpg">
 
-In 2005, Dr. Chou founded the Suzhou Institute of Biomedical Engineering and Technology. The Institute is now the largest biomedical devices entity with 58 spinoffs that significantly promote medical-device translations for the global health. Dr. Chou contributes his efforts in this institute on a totally voluntary basis without any compensation or financial interest.
+In 2005, Dr. Chou founded the Suzhou Institute of Biomedical Engineering and Technology. The Institute is now the largest biomedical devices entity with 58 spinoffs that have significantly promoted medical-device translations for global health. Dr. Chou contributes his efforts to this institute on a totally voluntary basis without any compensation or financial interest.

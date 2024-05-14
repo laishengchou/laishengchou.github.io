@@ -14,10 +14,12 @@ layout: single
 ## AWARDS
 
 <img src="/files/academics/metcalf-cup.jpg">
+<br /><br />In 2002, Dr. Chou was selected, from over 3,000 faculty members across the entire campus as the recipient of the Metcalf Cup and Prize – Boston University’s most prestigious teaching award.  [2002 Metcalf Cup and Prize](https://www.bu.edu/dental/chou-press-release/) [[1]](https://www.bu.edu/dental/chou-press-release/) [[2]](https://www.bu.edu/dental/chou-metcalf-post/) [[3]](https://www.bu.edu/bridge/archive/2002/08-30/aids.htm) [[4]](https://www.bu.edu/bridge/archive/2002/05-31/metcalfcup.htm)
 <br /><br />
 <img src="/files/academics/metcalf-collage-2002.png">
+<br /><br />
+<i><text style="color: #888;">Top: 2002 Award Ceremony, Order of Award | Bottom: Medal of Award, Library Honor Display</text></i>
 
-In 2002, Dr. Chou was selected, from over 3,000 faculty members across the entire campus as the recipient of the Metcalf Cup and Prize – Boston University’s most prestigious teaching award.  [2002 Metcalf Cup and Prize](https://www.bu.edu/dental/chou-press-release/) [[1]](https://www.bu.edu/dental/chou-press-release/) [[2]](https://www.bu.edu/dental/chou-metcalf-post/) [[3]](https://www.bu.edu/bridge/archive/2002/08-30/aids.htm) [[4]](https://www.bu.edu/bridge/archive/2002/05-31/metcalfcup.htm)
 
 ## ACADEMIC TEACHING COURSES
 
@@ -43,20 +45,20 @@ Lecturer, Boston University (210 students)
 
 Role in program:	Founder and Director (2010 – )
 
-This SDM PH650 Global Externship credit-bearing program was developed by Dr. Chou for the fourth-year dental students to expand their global curriculum including the opportunity to complete a portion of their Boston University program in other locations throughout the world. This effort declares that BU Dental School is committed to some key attributes of its academic reputation defining the school as a global institute in the 21st century. Between 2010 -2021, as the advisor to the Dean, Dr. Chou, with his unique connections to the dental schools around the world, partnered with seven dental schools in Japan, China, Thailand, South Korea and India and developed seven externship programs. With these externship exchange programs, on a volunteer basis, students in the fourth-year of their DMD program are choose for alternative clinical training settings in other countries for a 2-week rotation. These rotations provide opportunities for the continued growth of the students’ clinical skills and critical thinking in treating diverse patient populations, along with the development of their cultural competencies.  
+This SDM PH650 Global Externship credit-bearing program was developed by Dr. Chou for the fourth-year dental students to expand their global curriculum including the opportunity to complete a portion of their Boston University program in other locations throughout the world. This effort declares that BU Dental School is committed to some key attributes of its academic reputation defining the school as a global institute in the 21st century. Between 2010 -2021, as the advisor to the Dean, Dr. Chou, with his unique connections to the dental schools around the world, partnered with seven dental schools in Japan, China, Thailand, South Korea and India and developed seven externship programs. With these externship exchange programs, on a volunteer basis, students in the fourth-year of their DMD program are selected for alternative clinical training settings in other countries for a 2-week rotation. These rotations provide opportunities for the continued growth of the students’ clinical skills and critical thinking in treating diverse patient populations, along with the development of their cultural competencies.  
 
 
 ### Course:	BUSDM - “Oral Medicine”
 
 Role in course: 	Course Director (2000 – )
 
-This is a didactic course developed for undergraduate students, starting in the fall of 2000. In the past, the school’s curriculum did not have a formal course focusing on this discipline. On the other hand, the competency in serving the dental patients and in dealing with the Oral Medicine-oriented National Dental Board Exam became a critical issue in our dental education. To meet such a demand, a didactic course covering the spectrum of rational procedures for diagnosis of oral lesions, medical risk assessment, management of medically compromised dental patients, and knowledge and understanding of oral manifestations of systemic diseases was created. Dr. Chou has been the course director and key lecturer of this program since 2000. Now, this course has been one of the highly ranked courses in the school. 
+This is a didactic course developed for undergraduate students, starting in the fall of 2000. In the past, the school’s curriculum did not have a formal course focusing on this discipline. On the other hand, competency in serving patients and preparing for the Oral Medicine-oriented National Dental Board Exam became a critical issue in our dental education. To meet such a demand, a didactic course covering the spectrum of rational procedures for diagnosis of oral lesions, medical risk assessment, management of medically compromised dental patients, and knowledge and understanding of oral manifestations of systemic diseases was created. Dr. Chou has been the course director and key lecturer of this program since 2000. Now, this course has been one of the highly ranked courses in the school. 
 
 ### Program:	BUSDM “Program for DMD-III Oral Medicine Clinical Rotation”
 
 Role in program: 	Course Director (1995 – )
 
-This clinical training program was created in 1995 by Dr. Chou. The program has been sponsored by the PHS National Education and Training Center. Students in their third-year are assigned to this Oral Medicine clinical rotation, observing the diagnosis and treatments of oral mucosal lesions, craniofacial neural diseases, TMJ disorders, and medically compromised dental patients. A comprehensive review of histology, biology, pathology, pharmacology, and radiology on each patient is given to the students by the faculty. A microscope is placed aside in clinic for histological review of biopsies from the patients. This unique opportunity has been significantly beneficial to the undergraduate dental students’ clinical competency.
+This clinical training program was created in 1995 by Dr. Chou. The program has been sponsored by the PHS National Education and Training Center. Students in their third-year are assigned to this Oral Medicine clinical rotation, observing the diagnosis and treatments of oral mucosal lesions, craniofacial neural diseases, TMJ disorders, and medically compromised dental patients. A comprehensive review of histology, biology, pathology, pharmacology, and radiology on each patient is given to the students by the faculty. A microscope is provided in clinic for histological review of biopsies from the patients. This unique opportunity has been greatly beneficial to the dental students’ clinical competency.
 	
 ### Course:	SDM PR830 - “Advanced Biomaterials”
 
