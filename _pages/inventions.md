@@ -74,6 +74,8 @@ Around 20% of the world's population suffers from recurrent oral ulcers, a condi
 2.	Selected Patients Treated with ULCELOOCIN
 3.	Patents Covering the Invention and Production of ULCELOOCIN
 
+<hr />
+
 ## <a name="pet-ct-scanners"></a> [The First Head and Neck PET/CT System for Better Diagnosis and Treatment of Cancer Patients](/files/research/pingseng.pdf)
 
 In 2016, Dr. Chou and his team introduced the first Head and Neck PET-CT scanner, tailored for diagnosing and monitoring head and neck cancer. Their efforts yielded 55 patents, spanning the scanner's distinctive signaling system and design, which achieves twice the resolution with 70 percent less radiation compared to existing full-body PET-CT scans. This design enables immediate assessment of surgical outcomes following tumor removal in the head and neck region. There is additional potential to address diagnostic gaps in Alzheimer’s disease and monitoring treatment progress. Clinical trials under CFDA approval are forthcoming for this scanner.

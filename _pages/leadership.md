@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-### [Kunshan Biomedical Device Industrial Park](http://longtechmed.com)
+## [Kunshan Biomedical Device Industrial Park](http://longtechmed.com)
 
 <img src="/files/enterprises/kunshan/model-of-park.png">
 
@@ -14,7 +14,9 @@ Dr. Chou founded the Kunshan Medical Device Industrial Park in 2008 and currentl
 <img src="/files/enterprises/kunshan/kunshan-park.png">
 <br><br>
 
-### [Suzhou Institute of Biomedical Engineering and Technology](http://english.sibet.cas.cn/)
+<hr />
+
+## [Suzhou Institute of Biomedical Engineering and Technology](http://english.sibet.cas.cn/)
 
 <img src="/files/initiatives/suzhou-institute.jpg">
 

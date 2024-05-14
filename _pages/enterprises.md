@@ -7,6 +7,8 @@ layout: single
 
 The ultimate measure of success in biotechnological innovation is the translation of discoveries and inventions into tangible clinical applications through industrialization and commercialization. Dr. Chou's commitment to this process is evident in his founding of several incorporated companies aimed at bringing his discoveries to patients. The success of these ventures coupled with Dr. Chou's contributions, has greatly impacted the lives of tens of millions of patients worldwide, saving lives and enhancing quality of life.
 
+<hr />
+
 ## [Yenssen](https://www.yenssenbiotech.com/aboutus.html)
 
 <img title="Yenssen HQ" alt="Yenssen HQ" src="/files/enterprises/image001.png">
@@ -43,6 +45,8 @@ As of 2024, 142,750 patients treated with OSTEOBONE.
 
 <img src="/files/enterprises/image004.jpg">
 
+<hr />
+
 ## [Pingseng](https://www.pingseng.com/en/about/)
 
 Dr. Chou is the founder and president of Pingseng Scientific, incorporated in 2008 to industrialize the inventions of the world’s first human Head and Neck PET/CT and animal PET/SPECT/CT molecular imaging systems.
@@ -74,6 +78,7 @@ This device holds the advanced technology leading to 40% increase in resolution 
 
 A series of animal devices of PET/CT, SPECT/CT, PET/SPECT/CT and Micro CT for molecular imaging have been developed in the company with full intellectual properties and distributed to research institutes, pharmaceutical companies, and animal hospitals.  Within three years, this series of products have occupied 60% of market share and became a top brand in the field.
 
+<hr />
 
 ## [Yangguang-Haick](/inventions#nanosensors)
 
