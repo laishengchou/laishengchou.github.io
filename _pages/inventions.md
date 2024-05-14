@@ -25,7 +25,7 @@ Dr. Chou's groundbreaking research on Si/Ca-containing epitheliogenic materials 
   *	Severe electric burn treated successfully
   *	Severe stasis ulcer treated successfully
 4.	Patents Covering the Invention and Production of DERMLIN
-5.	Articles Published by the Independent Clinicians Who Used DERMLIN in Their Clinics with Successful Outcomes
+5.	[Articles Published by Independent Clinicians Using DERMLIN](/files/research/epitheliogenic-biomaterials.pdf)
   * Success in treating diabetic foot ulcers
   * Success in treating deep second- and third-degree burn wounds
   * Success in treating severe pressure wounds (Bedsore)
@@ -55,7 +55,7 @@ In 1998, Dr. Chou uncovered the osteogenic properties of inorganic silicon, alon
   *	Bone defect after benign bone tumor removal treated successfully
   *	Bone fracture treated successfully
 5.	Patents covering the invention and production of OSTEOBONE
-6.	Articles published by the independent clinicians who used OSTEOBONE in their clinics with successful outcomes
+6.	[Articles Published by Independent Clinicians Using OSTEOBONE](/files/research/osteobone.pdf)
 
 
 ##	<a name="oral-ulcer-healing"></a> [The First Oral Ulcer Healing Material Helping Over a Million Patients](/files/research/oral-ulcer-healing.pdf)
@@ -77,7 +77,7 @@ In 2016, Dr. Chou and his team introduced the first Head and Neck PET-CT scanner
   *	Sirius®, the world’s first animal PET/SPECT/CT 
   *	Super Nova® pre-clinical in-vivo PET/CT 
 3.	Patents Covering the Invention and Production of Molecular Imaging System (PET/SPECT/CT)
-4.  [A growing body of publications enabled by Pingseng devices](/files/research/pingseng-powered-publications.pdf)
+4.  [Growing Body of Publications enabled by Pingseng Devices](/files/research/pingseng-powered-publications.pdf)
 
 ##	<a name="nanosensors"></a> [The First Nano-Sensor to Detect the Early-Stage Lung and Gastric Cancer from a Breath Sample](/files/research/nanosensors.pdf)
 
