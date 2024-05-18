@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-Dr. Chou has made remarkable cross-disciplinary advances in translational medicine, marked by scientific discoveries and the development of novel medical modalities. These innovations have provided substantial benefits to tens of millions worldwide, especially those afflicted by severe wounds and bone defects. Moreover, through the donation of millions of products to developing countries for individuals facing life-threatening wounds, Dr. Chou's philanthropic efforts have had a profound impact on global health.
+Dr. Chou has made remarkable cross-disciplinary advances in translational medicine, marked by scientific discoveries and the development of novel medical modalities. These innovations have benefited tens of millions worldwide, especially those afflicted by severe wounds and bone defects. Moreover, through the donation of millions of products to developing countries with individuals facing life-threatening wounds, Dr. Chou's philanthropic efforts have had a profound impact on global health.
 
 <hr />
 
