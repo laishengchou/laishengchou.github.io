@@ -13,6 +13,9 @@ Dr. Chou has made remarkable cross-disciplinary advances in translational medici
 
 In 1995, Dr. Chou was the first to discover [element- and topography-specific biogenetic reactions to inert biomaterials within live human cells](/files/research/biogenetic-reactions-to-inert-biomaterials-1995.pdf). This breakthrough sparked the emergence of the [molecular biocompatibility](/files/research/molecular-biocompatibility-1996.pdf) field. Dr. Chou’s proposal of building the biomaterials’ molecular biocompatibility profile is credited with catalyzing the development of third-generation biomaterials and played a key role in shaping the federal white paper <a href="https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/materials_genome_initiative-final.pdf">"Materials Genome Initiative"</a> issued by President Obama in 2011.
 
+<br class="before-more" />
+[More Details](/files/research/molecular-biocompatibility.pdf)
+
 <hr />
 
 ## <a name="epitheliogenic-biomaterials"></a> [The First Epitheliogenic Biomaterials Benefiting over 16 Millions Patients Worldwide](/files/research/epitheliogenic-biomaterials.pdf)
@@ -38,6 +41,8 @@ Dr. Chou's groundbreaking research on Si/Ca-containing epitheliogenic materials 
   * Success in treating large surgical wounds after cancer surgery and lymph node dissection 
   * Success in treating other wounds
 
+<br class="before-more" />
+[More Details](/files/research/epitheliogenic-biomaterials.pdf)
 
 <hr />
 
@@ -53,7 +58,7 @@ In 1998, Dr. Chou uncovered the osteogenic properties of inorganic silicon, alon
   *	 The first engineered human bone tissue
   *	The first success in repairing a segmental bone defect
 3.	Translating Inventions into a Series of Products Named OSTEOBONE
-4.	 Selected Patients Treated with OSTEOBONE Bone Scaffold Products
+4.	Selected Patients Treated with OSTEOBONE Bone Scaffold Products
   *	The first patient with an over 25-year long-term follow-up after treatment with Dr. Chou’s innovative technology 
   *	The second patient with an over 25-year long-term follow-up after treatment by Dr. Chou’s innovative technology
   *	Large mandible defect treated successfully
@@ -63,6 +68,8 @@ In 1998, Dr. Chou uncovered the osteogenic properties of inorganic silicon, alon
 5.	Patents covering the invention and production of OSTEOBONE
 6.	[Articles Published by Independent Clinicians Using OSTEOBONE](/files/research/osteobone-independent-clinicians.pdf)
 
+<br class="before-more" />
+[More Details](/files/research/osteobone.pdf)
 
 <hr />
 
@@ -70,9 +77,13 @@ In 1998, Dr. Chou uncovered the osteogenic properties of inorganic silicon, alon
 
 Around 20% of the world's population suffers from recurrent oral ulcers, a condition for which, prior to 2006, steroid use was the primary treatment option despite associated side effects. In 2006, Dr. Chou introduced the first silicon delivery patch, approved by FDA, CFDA, or CE, for faster healing of oral ulcers without relying on steroids. As of February 2024, 1,801,013 patients have benefited from this innovative product for managing recurrent oral ulcers.
 
-1.	Translating the Inventios into a Product Named ULCELOOCIN
+1.	Translating the Inventions into a Product Named ULCELOOCIN
 2.	Selected Patients Treated with ULCELOOCIN
 3.	Patents Covering the Invention and Production of ULCELOOCIN
+
+<br class="before-more" />
+[More Details](/files/research/oral-ulcer-healing.pdf)
+
 
 <hr />
 
@@ -89,6 +100,9 @@ In 2016, Dr. Chou and his team introduced the first Head and Neck PET-CT scanner
 3.	Patents Covering the Invention and Production of Molecular Imaging System (PET/SPECT/CT)
 4.  [Growing Body of Publications enabled by Pingseng Devices](/files/research/pingseng-powered-publications.pdf)
 
+<br class="before-more" />
+[More Details](/files/research/pingseng.pdf)
+
 <hr />
 
 ##	<a name="nanosensors"></a> [The First Nano-Sensor to Detect the Early-Stage Lung and Gastric Cancer from a Breath Sample](/files/research/nanosensors.pdf)
@@ -98,3 +112,6 @@ Dr. Chou has led a team in developing a novel breath test nano-sensor device for
 1.	The Prototype of the World’s First Nano-Sensor for Lung and Gastric Cancer Detection on a Breath Sample 
 2.	Preliminary Data of an IRB-Approved Clinical Trial
 3.	Patents Covering the Invention and Production of Breath Nano-Sensor for Lung and Gastric Cancer Detection
+
+<br class="before-more" />
+[More Details](/files/research/nanosensors.pdf)

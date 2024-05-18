@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-## Biomaterials and Tissue Engineering:
+## Biomaterials and Tissue Engineering
 
 * Human Bone Tissue Engineering Scaffold and Its Preparation and Application. United Kingdom, France, Germany, Belgium, Spain, Sweden, and Italy. Publication number: 02742644.4-2107, Patent Number: 1426066. 2010.
 * Human Bone Tissue Engineering Scaffold and Its Preparation and Application. Japan. Publication Number: 2003-501511, Patent Number: 4391815, 2009.
