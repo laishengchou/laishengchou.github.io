@@ -11,6 +11,8 @@ layout: single
 
 [• Professor of Restorative Sciences & Biomaterials & Professor of General Dentistry at Boston University Henry M. Goldman School of Dental Medicine](https://www.bu.edu/dental/profile/laisheng-chou/)
 
+• Elected Fellow of Canadian Academy of Engineering
+
 ## AWARDS
 
 <img src="/files/academics/metcalf-cup.jpg">

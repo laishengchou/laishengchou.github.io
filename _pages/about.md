@@ -10,7 +10,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Lee Chou is an accomplished [scientist](/inventions), [entrepreneur and executive](/enterprises) in biomedical engineering, world-leading [expert in translational medicine](/inventions), [founder of the world's largest institute of biomedical devices](/leadership), and award-winning [professor](/academics). 
+Dr. Lee Chou is an accomplished [scientist](/inventions), [entrepreneur and executive](/enterprises) in biomedical engineering, world-leading [expert in translational medicine](/inventions), [founder of the world's largest institute of biomedical devices](/leadership), and award-winning [professor](/academics).
+
+Dr. Chou is an elected Fellow of Canadian Academy of Engineering.
 
 He is considered a pioneer of many new technologies, including the theory of molecular biocompatibility, silicon-containing osteogenic materials, the first biomimetically designed scaffold and the first 3D printing machine for tissue engineering, the first Head & Neck PET/CT, and the first breath nano-sensor for the detection of lung and gastric cancer. Recipient of [over 100 patents](/patents), his FDA, CFDA, and CE [approved products](/enterprises) have saved and improved the lives of millions of patients worldwide.
 
