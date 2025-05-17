@@ -11,7 +11,7 @@ layout: single
 
 [• Professor of Restorative Sciences & Biomaterials & Professor of General Dentistry at Boston University Henry M. Goldman School of Dental Medicine](https://www.bu.edu/dental/profile/laisheng-chou/)
 
-[• Elected Fellow of Canadian Academy of Engineering](https://www.cae-acg.ca/wp-content/uploads/2025/05/2025-New-Fellows-Media-Release-EN.pdf)
+[• Elected Fellow of the Canadian Academy of Engineering](https://www.cae-acg.ca/wp-content/uploads/2025/05/2025-New-Fellows-Media-Release-EN.pdf)
 
 ## AWARDS
 
