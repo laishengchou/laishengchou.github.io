@@ -7,11 +7,13 @@ layout: single
 
 ## POSITIONS
 
-[• Professor of Restorative Sciences, Biomaterials, MSE at Boston University College of Engineering](https://www.bu.edu/eng/profile/laisheng-chou/)
+[• Professor Emeritus of Restorative Sciences & Biomaterials & Professor of General Dentistry at Boston University Henry M. Goldman School of Dental Medicine](https://www.bu.edu/dental/profile/laisheng-chou/)
 
-[• Professor of Restorative Sciences & Biomaterials & Professor of General Dentistry at Boston University Henry M. Goldman School of Dental Medicine](https://www.bu.edu/dental/profile/laisheng-chou/)
+[• Professor Emeritus of Restorative Sciences, Biomaterials, MSE at Boston University College of Engineering](https://www.bu.edu/eng/profile/laisheng-chou/)
 
 [• Elected Fellow of the Canadian Academy of Engineering](https://www.cae-acg.ca/wp-content/uploads/2025/05/2025-New-Fellows-Media-Release-EN.pdf)
+
+[• Elected Fellow of American Institute of Medical and Biomedical Engineering](https://aimbe.org/)
 
 ## AWARDS
 
